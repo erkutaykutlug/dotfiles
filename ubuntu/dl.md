@@ -56,6 +56,9 @@ $ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*
 $ sudo apt install libcupti-dev
 ```
 
+## Install Tensorflow with CUDA9.1 and cuDNN7.0.5
+* http://www.python36.com/install-tensorflow141-gpu/
+
 ## Install python3.6 on ubuntu 16.04
 * You need to have python3.5 installed. 
 
