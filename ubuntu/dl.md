@@ -56,9 +56,6 @@ $ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*
 $ sudo apt install libcupti-dev
 ```
 
-## Install Tensorflow with CUDA9.1 and cuDNN7.0.5
-* http://www.python36.com/install-tensorflow141-gpu/
-
 ## Install python3.6 on ubuntu 16.04
 * You need to have python3.5 installed. 
 
@@ -80,6 +77,9 @@ $ sudo apt install libcupti-dev
   ```
   * make sure no folders are left behind: `$ ls /usr/local/cuda-X.Y`
 * Follow the instructions [above](https://github.com/jeongyoonlee/dotfiles/blob/master/ubuntu/dl.md) to re-install drivers. 
+
+## Install Tensorflow with CUDA9.1 and cuDNN7.0.5
+* http://www.python36.com/install-tensorflow141-gpu/
 
 ## Install OpenCV2
 From http://leoybkim.com/wiki/installing-opencv-2.4.13-on-ubunto-16.04/
